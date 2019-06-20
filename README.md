@@ -1,0 +1,2 @@
+# Communito
+A MERN application 
