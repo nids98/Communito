@@ -1,4 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://nidhi:nidhi@communito-sunbg.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+  "mongoURI": "mongodb+srv://nidhi:nidhi@communito-sunbg.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "12d76b4bf15c471cb510",
+  "githubSecret": "342f388b2caa19f20d57a1649f7067de8dd4d0a9"
 }
