@@ -1,6 +1,7 @@
 /* Global Styles */
 :root {
-  --primary-color: #17a2b8;
+  /* --primary-color: #17a2b8; */
+  --primary-color: #0F1C70;
   --dark-color: #343a40;
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
@@ -226,7 +227,7 @@ img {
 
 /* Overlay */
 .dark-overlay {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
   left: 0;
